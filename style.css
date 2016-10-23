@@ -6,3 +6,27 @@ h1{
 	color: white;
 	background-color: #2db4b4
 }
+#prep{
+	color: pink;
+}
+#total{
+	color: orange;
+}
+.stuff{
+	color: #66ccff;
+}
+#ingredients{
+	color: #00ff00;
+}
+#related{
+	color: #ffff1a;
+}
+ul{
+	list-style-position: inside;
+}
+ol{
+	list-style-position: inside;
+}
+#first{
+	background-color: purple;
+}
